@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMCModdingTool", "VMCModdingTool\VMCModdingTool.csproj", "{1F909CE7-6139-40ED-B13C-8C444F45FE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMCModdingTool.Templete", "VMCModdingTool.Templete\VMCModdingTool.Templete.csproj", "{2C946E5C-23F6-4B1F-86BF-015888E4C2F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F909CE7-6139-40ED-B13C-8C444F45FE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F909CE7-6139-40ED-B13C-8C444F45FE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F909CE7-6139-40ED-B13C-8C444F45FE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F909CE7-6139-40ED-B13C-8C444F45FE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C946E5C-23F6-4B1F-86BF-015888E4C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C946E5C-23F6-4B1F-86BF-015888E4C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C946E5C-23F6-4B1F-86BF-015888E4C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C946E5C-23F6-4B1F-86BF-015888E4C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E436F2D2-7F31-424A-81E8-754608787780}
+	EndGlobalSection
+EndGlobal
