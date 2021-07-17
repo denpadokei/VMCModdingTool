@@ -1,6 +1,10 @@
 # VMCModdingTool
 VMCのModを作成するときのテンプレートです。  
-今のところVS2019に対応してます。
+今のところVS2019に対応してます。  
+  
+[VMC公式HP](https://vmc.info/)  
+[VMC Github](https://github.com/sh-akira/VirtualMotionCapture)  
+
 
 できたcsprjの`VMCDirPath`にVMCのディレクトリパスをコピペなりなんなりすれば動くんじゃないんですかね。
 
